@@ -2,6 +2,11 @@
 Using a single `Canvas` of Jetpack Compose to interact with `pointerInput`
 It calculates a square at the center of `Canvas` thus it supports Horizontally or Vertically.
 
+# Preview
+https://github.com/Wesely/AndroidComposePatternLock/assets/5109822/d0994b9f-c6a4-4cf1-93a3-26c906c07835
+
+https://github.com/Wesely/AndroidComposePatternLock/assets/5109822/cf592934-0bd8-48dc-a527-fb4a0a1bc871
+
 # Introduction
 Demonstrating a pattern lock functionality with the use of Android Compose. This activity allows the user to create a pattern by dragging on the screen across multiple dots. Each selected dot will be a part of the pattern, represented by a number.
 
@@ -29,10 +34,4 @@ The user interacts with the application by touching and dragging their finger ac
 # Note
 The pattern lock is a simple and intuitive way for users to interact with your application. It can be used for any situation where you want to ask the user to input a simple sequence, like a gesture-based login, simple game control, or any other type of user interaction that can be mapped to a pattern of dots.
 
-# Preview
-https://github.com/Wesely/AndroidComposePatternLock/assets/5109822/d0994b9f-c6a4-4cf1-93a3-26c906c07835
-
-
-
-https://github.com/Wesely/AndroidComposePatternLock/assets/5109822/cf592934-0bd8-48dc-a527-fb4a0a1bc871
 
